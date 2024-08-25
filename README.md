@@ -13,10 +13,8 @@ scipy
 matplotlib
 seaborn
 You can install these libraries using the following command:
-
-bash
-Copy code
 pip install numpy pandas scipy matplotlib seaborn
+
 Notable Sections of the Notebook
 Data Loading and Exploration: The dataset is loaded, and initial exploration is performed to understand the structure and content of the data.
 Data Preprocessing: Missing values are handled, and necessary transformations are applied to prepare the data for modeling.
